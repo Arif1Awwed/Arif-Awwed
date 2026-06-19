@@ -10,7 +10,6 @@
 
 ### 🧠 About Me
 
-- 🏫 Student at **Jubail Industrial College**.
 - 🔭 Currently sharpening my skills in **Data Science, Machine Learning, and Predictive Analytics**.
 - 📊 Deeply interested in **Data Visualization**, **Business Intelligence (BI)**, and Statistical Analysis.
 - 🛠️ Transforming complex datasets into interactive dashboards and actionable business insights.
@@ -22,7 +21,7 @@
 ### 💻 Languages & Tools
 
 #### 📊 Data Science & Analytics
-<a href="https://powerbi.microsoft.com/" target="_blank"><img alt="Power BI" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" onerror="this.src='https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black'"></a>
+<a href="https://powerbi.microsoft.com/" target="_blank"><img alt="Power BI" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"></a>
 <a href="https://www.python.org/" target="_blank"><img alt="Python" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
 <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
 <a href="https://www.sql.org/" target="_blank"><img alt="SQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a>
@@ -37,4 +36,7 @@
 
 ### 📬 Contact Me
 
+### 📬 Contact Me
+
 - 📧 Email: [arif623401@gmail.com]
+- 💼 LinkedIn: [arif-alshammari](https://www.linkedin.com/in/%D8%B9%D8%A7%D8%B1%D9%81-%D8%A7%D9%84%D8%B4%D9%85%D8%B1%D9%8A-411638380/)
