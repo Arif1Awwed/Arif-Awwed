@@ -39,4 +39,4 @@
 ### 📬 Contact Me
 
 - 📧 Email: [arif623401@gmail.com]
-- 💼 LinkedIn: [arif-alshammari](https://www.linkedin.com/in/%D8%B9%D8%A7%D8%B1%D9%81-%D8%A7%D9%84%D8%B4%D9%85%D8%B1%D9%8A-411638380/)
+- 💼 LinkedIn: [Arif-alshammari](https://www.linkedin.com/in/%D8%B9%D8%A7%D8%B1%D9%81-%D8%A7%D9%84%D8%B4%D9%85%D8%B1%D9%8A-411638380/)
