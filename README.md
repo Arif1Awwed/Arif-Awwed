@@ -24,8 +24,6 @@
 #### 📊 Data Science & Analytics
 <a href="https://powerbi.microsoft.com/" target="_blank"><img alt="Power BI" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" onerror="this.src='https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black'"></a>
 <a href="https://www.python.org/" target="_blank"><img alt="Python" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img alt="Pandas" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"></a>
-<a href="https://numpy.org/" target="_blank"><img alt="NumPy" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"></a>
 <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
 <a href="https://www.sql.org/" target="_blank"><img alt="SQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a>
 
