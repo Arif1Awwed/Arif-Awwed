@@ -2,6 +2,7 @@
 
 🎓 I'm a Computer Science student at **Jubail Industrial College**.  
 💡 Passionate about **Programming**, **Artificial Intelligence**, and specialized in **Data Science & Data Analytics**.  
+🚀 I learned **Machine Learning & Applied AI** by building end-to-end projects from scratch—from mathematical implementations of algorithms to deploying trained models in live web apps.
 
 ---
 
@@ -9,8 +10,8 @@
 
 ### 🧠 About Me
 
-- 🧠 **Hands-on Machine Learning:** Mastered ML concepts (Supervised/Unsupervised Learning, Regression, Classification, Model Evaluation) directly through project implementation rather than just theory.
-- 🔭 **Project-Driven Expertise:** Built core ML algorithms using pure math (NumPy/Pandas) and deployed production-ready ML pipelines using XGBoost, Scikit-Learn, Streamlit, and Flask.
+- 🧠 **Hands-on Machine Learning:** Mastered ML concepts (Supervised/Unsupervised Learning, Classification, Regression, Model Evaluation) directly through project implementation rather than just theory.
+- 🔭 **Project-Driven Expertise:** Built core ML algorithms using pure math (NumPy/Pandas) and deployed production-ready ML pipelines using XGBoost, LightGBM, Scikit-Learn, Streamlit, and Flask.
 - 📊 Deeply interested in **Data Visualization**, **Business Intelligence (BI)**, and Predictive Analytics.
 - 🛠️ Skilled at building end-to-end solutions: taking raw datasets through ETL cleaning, database engineering, interactive dashboards, and ML prediction engines.
 - 🤝 Looking to collaborate on open-source data science, machine learning, or software engineering projects.
@@ -45,6 +46,7 @@
 ### 🤖 Machine Learning & AI
 | Project | Key Tech | Description | Link |
 | :--- | :--- | :--- | :---: |
+| **College Student Placement Prediction** | Scikit-Learn, XGBoost, LightGBM, Pandas | Benchmarked 11 classification models on 10,000 records to predict student job placement. Executed EDA, IQR outlier analysis, feature importance (identifying CGPA as top driver), and metric evaluations. | [🔗 View](https://github.com/Arif1Awwed/College-Student-Placement-Prediction) |
 | **Machine Learning From Scratch** | Python, NumPy, Pandas | Implemented 9 core ML algorithms without high-level libraries. Built full mathematical derivations, loss functions, and gradient descent routines with animated training visualizations. | [🔗 View](https://github.com/Arif1Awwed/ML-Algorithms-from-Scratch) |
 | **Bank Customer Churn Prediction** | XGBoost, Streamlit, Power BI | End-to-end churn risk prediction pipeline. Trained ML models (XGBoost, Random Forest), deployed an interactive Streamlit app for real-time scoring, and integrated a Power BI strategic dashboard. | [🔗 View](https://github.com/Arif1Awwed/Customer_Churn_Project) |
 | **Superstore Discount Calculator** | XGBoost, Flask, HTML/CSS | Built an ML regression model to optimize retail order discounts based on sales and logistics data. Integrated into a Flask web application with a responsive dashboard for profit margin analysis. | [🔗 View](https://github.com/Arif1Awwed/SuperStore) |
