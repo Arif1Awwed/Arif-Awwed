@@ -2,7 +2,6 @@
 
 🎓 I'm a Computer Science student at **Jubail Industrial College**.  
 💡 Passionate about **Programming**, **Artificial Intelligence**, and specialized in **Data Science & Data Analytics**.  
-🚀 I learned **Machine Learning & Applied AI** by building end-to-end projects from scratch—from mathematical implementations of algorithms to deploying trained models in live web apps.
 
 ---
 
