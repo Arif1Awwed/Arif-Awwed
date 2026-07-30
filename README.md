@@ -42,13 +42,19 @@
 
 ## 🚀 Featured Projects & Portfolio
 
+### 🔄 End-to-End Solutions
+| Project | Key Tech | Description | Link |
+| :--- | :--- | :--- | :---: |
+| **IBM HR Analytics Employee** | Scikit-Learn, SQL, Power BI, DAX | End-to-end pipeline predicting employee attrition risk. Engineered features, trained a classification model to catch 85% of leavers, and deployed an interactive Power BI dashboard to drive costed HR interventions. | [🔗 View](https://github.com/Arif1Awwed/IBM-HR-Analytics-Employee) |
+| **Bank Customer Churn Prediction** | XGBoost, Streamlit, Power BI | End-to-end churn risk prediction pipeline. Trained ML models (XGBoost, Random Forest), deployed an interactive Streamlit app for real-time scoring, and integrated a Power BI strategic dashboard. | [🔗 View](https://github.com/Arif1Awwed/Customer_Churn_Project) |
+
+---
+
 ### 🤖 Machine Learning & AI
 | Project | Key Tech | Description | Link |
 | :--- | :--- | :--- | :---: |
-| **IBM HR Analytics Employee** | Scikit-Learn, SQL , Power BI, DAX | End-to-end pipeline predicting employee attrition risk. Engineered features, trained a classification model to catch 85% of leavers, and deployed an interactive Power BI dashboard to drive costed HR interventions. | [🔗 View](https://github.com/Arif1Awwed/IBM-HR-Analytics-Employee) |
 | **College Student Placement Prediction** | Scikit-Learn, XGBoost, LightGBM, Pandas | Benchmarked 11 classification models on 10,000 records to predict student job placement. Executed EDA, IQR outlier analysis, feature importance (identifying CGPA as top driver), and metric evaluations. | [🔗 View](https://github.com/Arif1Awwed/College-Student-Placement-Prediction) |
 | **Machine Learning From Scratch** | Python, NumPy, Pandas | Implemented 9 core ML algorithms without high-level libraries. Built full mathematical derivations, loss functions, and gradient descent routines with animated training visualizations. | [🔗 View](https://github.com/Arif1Awwed/ML-Algorithms-from-Scratch) |
-| **Bank Customer Churn Prediction** | XGBoost, Streamlit, Power BI | End-to-end churn risk prediction pipeline. Trained ML models (XGBoost, Random Forest), deployed an interactive Streamlit app for real-time scoring, and integrated a Power BI strategic dashboard. | [🔗 View](https://github.com/Arif1Awwed/Customer_Churn_Project) |
 | **Superstore Discount Calculator** | XGBoost, Flask, HTML/CSS | Built an ML regression model to optimize retail order discounts based on sales and logistics data. Integrated into a Flask web application with a responsive dashboard for profit margin analysis. | [🔗 View](https://github.com/Arif1Awwed/SuperStore) |
 
 ---
