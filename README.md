@@ -23,7 +23,6 @@
 <a href="https://scikit-learn.org/" target="_blank"><img alt="Scikit-Learn" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"></a>
 <a href="https://numpy.org/" target="_blank"><img alt="NumPy" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img alt="Pandas" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"></a>
-<a href="https://scipy.org/" target="_blank"><img alt="SciPy" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg"></a>
 <a href="https://streamlit.io/" target="_blank"><img alt="Streamlit" height="42px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg"></a>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img alt="Flask" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"></a>
 
