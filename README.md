@@ -1,4 +1,4 @@
-## Hey 👋, I'm Arif Awwed!
+## Hey 👋, I'm Arif Awed!
 
 🎓 I'm a Computer Science student at **Jubail Industrial College**.  
 💡 Passionate about **Programming**, **Artificial Intelligence**, and specialized in **Data Science & Data Analytics**.  
