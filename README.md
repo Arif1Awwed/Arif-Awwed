@@ -1,10 +1,10 @@
 <!-- ========================================================= -->
-<!--                    ARIF AWED — PROFILE                    -->
+<!--                     ARIF AWED — PROFILE                     -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-# 👋 Hey, I'm Arif Awed
+# Hey, I'm Arif Awed
 
 ### Computer Science Student · Data Science · Machine Learning · AI
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a **Computer Science student at Jubail Industrial College** with a strong interest in **Data Science, Machine Learning, Artificial Intelligence, and Software Engineering**.
 
@@ -44,20 +44,20 @@ My learning approach is project-driven: I focus on understanding how systems wor
 
 ### What I Do
 
-- 🤖 **Machine Learning:** Classification, Regression, Model Evaluation, Feature Engineering, and Predictive Analytics.
-- 🧮 **ML From Scratch:** Implementing algorithms using mathematical foundations, NumPy, and Pandas.
-- 📊 **Data Analytics & BI:** Transforming raw data into actionable insights using SQL, Power BI, DAX, and visualization.
-- 🛠️ **End-to-End Solutions:** Building complete workflows from data cleaning and ETL to databases, ML models, and deployment.
-- 🌐 **Software Development:** Developing practical applications and integrating intelligent systems into usable interfaces.
-- 🇸🇦 **Technology & Vision 2030:** Interested in solutions that support digital transformation, innovation, and a knowledge-based economy.
+- **Machine Learning:** Classification, Regression, Model Evaluation, Feature Engineering, and Predictive Analytics.
+- **ML From Scratch:** Implementing algorithms using mathematical foundations, NumPy, and Pandas.
+- **Data Analytics & BI:** Transforming raw data into actionable insights using SQL, Power BI, DAX, and visualization.
+- **End-to-End Solutions:** Building complete workflows from data cleaning and ETL to databases, ML models, and deployment.
+- **Software Development:** Developing practical applications and integrating intelligent systems into usable interfaces.
+- **Technology & Innovation:** Interested in solutions that support digital transformation, innovation, and a knowledge-based economy.
 
 > **My goal:** Build intelligent, data-driven systems that solve real problems and create measurable impact.
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
-### 🤖 Machine Learning & AI
+### Machine Learning & AI
 
 <p>
   <a href="https://scikit-learn.org/">
@@ -79,7 +79,7 @@ My learning approach is project-driven: I focus on understanding how systems wor
 
 **Scikit-Learn · NumPy · Pandas · Streamlit · Flask**
 
-### 📊 Data Science & Analytics
+### Data Science & Analytics
 
 <p>
   <a href="https://powerbi.microsoft.com/">
@@ -98,7 +98,7 @@ My learning approach is project-driven: I focus on understanding how systems wor
 
 **Python · SQL · MySQL · Power BI · DAX · Plotly · Excel · Data Visualization**
 
-### ⚙️ Software Development
+### Software Development
 
 <p>
   <a href="https://isocpp.org/">
@@ -119,9 +119,9 @@ My learning approach is project-driven: I focus on understanding how systems wor
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🔄 End-to-End Data & AI Solutions
+## End-to-End Data & AI Solutions
 
 Projects that combine **data engineering, analytics, machine learning, and deployment** to solve practical business problems.
 
@@ -133,7 +133,7 @@ Projects that combine **data engineering, analytics, machine learning, and deplo
 
 ---
 
-## 🤖 Machine Learning & AI
+## Machine Learning & AI
 
 Projects focused on **model development, mathematical understanding, and predictive intelligence**.
 
@@ -145,7 +145,7 @@ Projects focused on **model development, mathematical understanding, and predict
 
 ---
 
-## 📊 Data Analytics & Business Intelligence
+## Data Analytics & Business Intelligence
 
 Projects focused on **turning data into business insights and strategic decisions**.
 
@@ -157,7 +157,7 @@ Projects focused on **turning data into business insights and strategic decision
 
 ---
 
-## 🧹 Data Engineering & Data Quality
+## Data Engineering & Data Quality
 
 Projects focused on **data reliability, cleaning, transformation, and analytical readiness**.
 
@@ -168,60 +168,18 @@ Projects focused on **data reliability, cleaning, transformation, and analytical
 
 ---
 
-## 🇸🇦 Technology with Purpose
-
-I'm interested in building solutions that go beyond technical implementation and contribute to **real-world development**.
-
-### How My Interests Align with Saudi Vision 2030
-
-| Focus Area | My Technical Contribution |
-| :--- | :--- |
-| **Digital Transformation** | Building intelligent systems that use data to improve decision-making and operational efficiency. |
-| **Thriving Economy** | Developing predictive analytics and business intelligence solutions that support smarter business decisions. |
-| **Knowledge-Based Economy** | Applying AI, Machine Learning, and Data Science to create innovative, technology-driven solutions. |
-| **Vibrant Society** | Exploring intelligent applications that improve user experiences and support better services. |
-| **Ambitious Nation** | Continuously developing technical skills and contributing to Saudi Arabia's growing digital ecosystem. |
-
-> **My long-term direction:** Combine Data Science, AI, IoT, and intelligent systems to build practical solutions aligned with Saudi Arabia's digital transformation goals.
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Arif1Awwed&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arif1Awwed&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Arif1Awwed&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always interested in collaborating on **open-source projects, data science, machine learning, and software engineering**.
 
 Whether you're working on an interesting dataset, building an AI application, or exploring a new technology, I'd love to connect.
 
 <p align="center">
-  <a href="mailto:arif623401@gmail.com">📧 Email</a>
+  <a href="mailto:arif623401@gmail.com">Email</a>
   &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/%D8%B9%D8%A7%D8%B1%D9%81-%D8%A7%D9%84%D8%B4%D9%85%D8%B1%D9%8A-411638380/">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/%D8%B9%D8%A7%D8%B1%D9%81-%D8%A7%D9%84%D8%B4%D9%85%D8%B1%D9%8A-411638380/">LinkedIn</a>
   &nbsp;•&nbsp;
-  <a href="https://github.com/Arif1Awwed">🐙 GitHub</a>
+  <a href="https://github.com/Arif1Awwed">GitHub</a>
 </p>
 
 ---
